@@ -4,4 +4,4 @@ export enum Category {
     FDS = "food",
     TLS = "tools",
     AOC = "other" 
-}
+};
